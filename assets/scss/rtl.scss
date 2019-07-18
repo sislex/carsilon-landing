@@ -131,7 +131,7 @@
     }
   }
   .home {
-    background-image: url(../images/rtl/1.png);
+    background-image: url(../../images/rtl/1.png);
   }
   .home-decor {
     .home-circle3 {
@@ -158,11 +158,11 @@
     }
   }
   .about {
-    background-image: url(../images/rtl/about-bg.png);
+    background-image: url(../../images/rtl/about-bg.png);
     background-position: right;
   }
   .feature {
-    background-image: url(../images/rtl/feature-bg.png);
+    background-image: url(../../images/rtl/feature-bg.png);
   }
   .feature-phone {
     right: 325px;
@@ -266,11 +266,11 @@
   }
   .home {
     &.home-two {
-      background-image: url(../images/rtl/home2-slider.png);
+      background-image: url(../../images/rtl/home2-slider.png);
     }
   }
   .home-three {
-    background-image: url(../images/rtl/home3-slider.png);
+    background-image: url(../../images/rtl/home3-slider.png);
   }
 }
 @media (max-width: 767px) {
