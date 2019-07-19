@@ -122,7 +122,6 @@ h3 {
   font-weight: 600;
   margin-top: 30px;
   color: $color_tundora;
-  text-transform: capitalize;
   letter-spacing: 1px;
 }
 
@@ -161,7 +160,6 @@ p {
   font-size: 15px;
   color: $color_tapa;
   letter-spacing: 0.03em;
-  text-transform: capitalize;
   &.landing-caption {
     font-size: 30px;
     line-height: 1.5;
@@ -276,7 +274,6 @@ section {
     h5 {
       color: $color_tundora;
       font-weight: 600;
-      text-transform: capitalize;
     }
     p {
       line-height: 24px;
@@ -698,7 +695,7 @@ ul {
           .nav-link {
             padding: 5px;
             font-size: 13px;
-            text-transform: capitalize;
+
             letter-spacing: 0.3px;
             transition: all 0.3s ease;
             cursor: pointer;
@@ -1598,7 +1595,6 @@ ul {
   h5 {
     margin: 0;
     line-height: 1;
-    text-transform: capitalize;
     display: inline-block;
     font-weight: 600;
   }
@@ -1676,7 +1672,6 @@ ul {
     li {
       a {
         color: $color_tapa;
-        text-transform: capitalize;
         font-size: 14px;
         text-decoration: none;
         transition: 0.3s ease;
@@ -1795,7 +1790,6 @@ ul {
   margin: 25px auto;
   li {
     padding: 10px;
-    text-transform: capitalize;
     color: #777;
   }
 }
@@ -1889,7 +1883,6 @@ ul {
     margin-bottom: 0;
   }
   h6 {
-    text-transform: capitalize;
     margin: 0;
   }
   p {
@@ -2575,7 +2568,6 @@ iframe.video-play {
       font-size: 14px;
       font-weight: 600;
       color: $color_tundora;
-      text-transform: capitalize;
       letter-spacing: 1px;
       overflow: hidden;
       text-overflow: ellipsis;
@@ -2754,7 +2746,6 @@ iframe.video-play {
     font-size: 18px;
     margin-top: 20px;
     margin-bottom: 5px;
-    text-transform: capitalize;
     font-weight: 600;
   }
   p{
